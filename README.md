@@ -31,5 +31,5 @@ This collection was created by [Hanno Böck](https://hboeck.de) for the
 
 This work was funded in part by Industriens Fond through the CIDI project
 (Cybersecure IOT in Danish Industry) and in part by the
-[Center for Information Security and Trust (CISAT)](https://cist.dk/)
+[Center for Information Security and Trust (CISAT)](https://cisat.dk/)
 at the IT University of Copenhagen, Denmark.
